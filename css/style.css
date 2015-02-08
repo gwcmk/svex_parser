@@ -1,0 +1,16 @@
+#header-text{
+	text-align: center;
+}
+
+#input{
+	height: 60vh;
+	overflow-y: scroll;
+}
+
+.output{
+	height: 60vh;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1em;
+	overflow-y: scroll;
+}
